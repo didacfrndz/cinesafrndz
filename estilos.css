@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(20, 2, 68);
+}
+
+header {
+    background-color: #333;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+header h1 {
+    color: white;
+    margin: 0;
+}
+
+header h2 {
+    color: white;
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+
+
+main {
+    padding: 2rem;
+}
+
+.movie {
+    
+    margin: 0;
+    padding: 0;
+    
+}
+
+.movie img {
+    width:  4cm;
+    height: 6cm ;
+}
+
+.promotion {
+    margin: 1rem 0;
+}
+
+.promotion h4 {
+    margin: 0.5rem 0;
+}
+
+.promotion p {
+    margin: 0.5rem 0;
+}
+
+#top-movies {
+    margin: 2rem 0;
+}
+#peliculas {
+    display: flex;
+    justify-content: space-around;
+    margin: 0%;
+    padding: 0%;
+}
+.cabecera img{
+    width: 100%;
+    height: 25rem;
+    image-rendering: auto;
+    display: flex;
+    text-align: left;
+}
+.cabecera h2{
+    position: relative;
+    top:50%;
+    left: 50%;
+    
+}
+.promotion{
+    display: inline-block;
+    background-color: white;
+    color: #33333391;
+    
+    
+    
+}
+.promotion h4{
+    color: #333;
+}
+#promotions{
+    display: flex;
+    justify-content: space-around;
+    margin: 0% 1% 1% 1%;
+    
+}
+h4 ,h3 ,h2{
+    color:aliceblue;
+}
+div{
+    color: aliceblue;
+}
+.premium-experience{
+    display: block;
+    align-items: start;
+    justify-content: left;
+    background-color: #411c63;
+    background-image: url(https://png.pngtree.com/background/20230520/original/pngtree-2d-image-3d-animation-of-purple-cubes-and-balls-picture-image_2680997.jpg);
+    
+}
+
+div{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+}
+.final {
+    border: white solid;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: fit-content;
+    align-items:start;
+}
+.apartado{
+   
+    margin: 0%;
+    padding: 0%;
+}
